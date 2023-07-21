@@ -12,11 +12,10 @@ La nouvelle méthode consiste en le même modèle de Kmeans, mais nourri avec de
 
 Ce répertoire contient notamment :
 
-- le script python
+- le script python qui va entraîner le nouveau modèle et afficher les scores
 - un fichier requirements.txt avec les dépendances à installer
 - le jeu de données à utiliser
 - le modèle de Kmeans initial
-- l'encoder pré-entraîné pour transformer les données
 
 ___
 
